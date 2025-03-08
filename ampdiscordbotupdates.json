@@ -1,12 +1,14 @@
 [
     {
         "UpdateStageName": "Getting main.py",
-        "UpdateSourcePlatform": "All",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "main.py",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/AMP_DiscordBot",
+        "UpdateSourceArgs": "enhvalderergal/AMP_DiscordBot",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     },
@@ -15,9 +17,11 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "AMP.py",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/AMP_DiscordBot",
+        "UpdateSourceArgs": "enhvalderergal/AMP_DiscordBot",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     },
@@ -26,9 +30,11 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "bot.py",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/AMP_DiscordBot",
+        "UpdateSourceArgs": "enhvalderergal/AMP_DiscordBot",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     },
@@ -37,9 +43,11 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "Counterstrike.py",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/AMP_DiscordBot",
+        "UpdateSourceArgs": "enhvalderergal/AMP_DiscordBot",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "GitHubDownload",
         "DeleteAfterExtract": true,
         "OneShot": false
     },
@@ -48,9 +56,11 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
         "UpdateSourceData": "DataManager.py",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/AMP_DiscordBot",
+        "UpdateSourceArgs": "enhvalderergal/AMP_DiscordBot",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
